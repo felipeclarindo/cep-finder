@@ -27,7 +27,7 @@ git clone https://github.com/felipeclarindo/buscar-cep.git
 ```
 2. Navegue ate o diretorio
 ```bash
-cd buscar-cep
+cd buscar-cep/src
 ```
 3. Execute o programa:
 ```bash
